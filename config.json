@@ -1,0 +1,9 @@
+{
+    "inputs": [
+        "live.txt",
+        "http://99.weidonglong.com/99.txt"
+    ],
+    "output_file": "output.txt",
+    "log_file": "speed_test.log",
+    "max_workers": 5
+}

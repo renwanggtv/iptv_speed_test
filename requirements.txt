@@ -1,0 +1,7 @@
+PyQt5>=5.15.0
+yt-dlp>=2023.3.4
+aiohttp>=3.8.1
+asyncio>=3.4.3
+urllib3>=1.26.7
+ffmpeg
+ffprobe
